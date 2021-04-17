@@ -1,2 +1,2 @@
 # Reinforcement_Learning_idu
-Codes are solutions to assignments on Reinforcement learning course at Izmir Democracy University
+Codes are explanation of the mountain car problem in the light of reinforcement learning.
